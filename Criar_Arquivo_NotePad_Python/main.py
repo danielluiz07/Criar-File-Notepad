@@ -12,7 +12,7 @@ pyautogui.press('enter')
 time.sleep(3)
 
 #Escreve no Bloco de Notas
-pyautogui.write("---> Programa by Danielluiz07 <---", interval=0.1)
+pyautogui.write("---> Programmed by Danielluiz07 <---", interval=0.1)
 time.sleep(0.5)
 pyautogui.press('enter')
 time.sleep(0.5)
